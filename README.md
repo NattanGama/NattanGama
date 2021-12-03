@@ -1,4 +1,4 @@
-<h1> Hello! <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NattanGama&layout=compact&langs_count=7&theme=react" />
+<h1> Hello! 
 
 <img align="right" width="148" height="198" src=""/>
 <h4> •🧑‍💻 Atualmente trabalho em qualquer área da Tecnologia
