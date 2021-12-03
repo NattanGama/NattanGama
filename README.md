@@ -1,7 +1,6 @@
 # <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" style="margin-left: auto;"/> Hello!
 
 <p align="center">
-    ##LinkedIn
     <a href="https://www.linkedin.com/in/nattan-gama-05369a192/">
         <img 
             height="22px"
