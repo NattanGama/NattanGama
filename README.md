@@ -4,6 +4,7 @@
 <h4> •🚀 A procura de novos conhecimentos, pois todos são bem vindos
 <h4> •😄 Pronouns: Ele/Dele
 <h4> •👨‍💻 Estudando Java até aprofundar o máximo possivel de conhecimento
+<h3> •
   
 <div>
   <a href="https://github.com/NattanGama">
