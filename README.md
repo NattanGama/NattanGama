@@ -77,10 +77,10 @@
 </p>
 
 # <img src="https://i.pinimg.com/originals/9e/ce/a1/9ecea162adb39aa8f720485abba466f6.gif" width="60px" /> Hobbies
-<p > - 🎮 I like gaming but I never know which games I wanna play and never play a game for long!;
-<br/> - 🏃‍♂️ Running;
-<br/> - 🎧 Listening to good music;
-<br/> - 🧟 Turning nights studying
+<p > - 🎮 I like games, and playing sports to relax my mind! 🏃‍;
+<br/> -🧠 knowledge;
+<br/> -👨‍💻 I spend the nights studying    
+<br/> 🎧🎶 i listen much musics;
 </p>
 
 ### <img src="https://i.pinimg.com/originals/31/ad/60/31ad6088046dd49728ccc58bd438229a.gif"  width="90px" /> Statistics
