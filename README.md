@@ -1,4 +1,4 @@
-<h1> https://giphy.com/gifs/welcome-8PyTvI5EOu9LbAm8uS Hello! My name is Nattan. Nice to meet you! </h1>
+<h1> ![image](https://user-images.githubusercontent.com/91083215/144525790-0d9ea6a3-5c14-4134-a860-f97746ab2c4b.png) Hello! My name is Nattan. Nice to meet you! </h1>
 
 <h4> •🧑‍💻 Atualmente trabalho em qualquer área da Tecnologia
 <h4> •🚀 A procura de novos conhecimentos, pois todos são bem vindos
