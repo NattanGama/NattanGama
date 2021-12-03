@@ -44,7 +44,7 @@
 ### <img src="https://64.media.tumblr.com/324771308e620b18243f0defccdfb26f/a2366e9d1e9bf824-ef/s500x750/e96cee532fd8f2306479ed3b0e1171a6cd1e0aaa.gifv" width="70"> <b>I really enjoy meeting different people, so if you want to introduce yourself, I'll have a great time getting to know you!</b>  😄
 
 
-![Snake animation](https://github.com/gabrielvieira1/gabrielvieira1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
 
 
 # <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="100px" /> My Skills
