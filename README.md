@@ -1,11 +1,11 @@
 # <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" style="margin-left: auto;"/> Hello!
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/bielvieira/">
+    <a href="https://www.linkedin.com/in/nattan-gama-05369a192/">
         <img 
             height="22px"
-            alt="Gabriel Vieira" 
-            src="https://img.shields.io/badge/-Gabriel%20Vieira-%230077b5?style=flat-square&logo=linkedin">
+            alt="Nattan Gama" 
+            src="https://img.shields.io/badge/-Nattan%20Gama-%230077b5?style=flat-square&logo=linkedin">
     </a>
     <a href="https://stackoverflow.com/story/bielvieira">
         <img
