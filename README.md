@@ -1,9 +1,9 @@
 <h1> Hello! My name is Nattan. Nice to meet you! </h1>
 
-<h1> •🧑‍💻 Atualmente trabalho em qualquer área da tecnologia
-<h1> •🚀 A procura de novos conhecimentos, pois todos são bem vindos
-<h1> •😄 Pronouns: Ele/Dele
-<h1> •👨‍💻 Estudando Java até aprofundar o máximo possivel de conhecimento
+<h2> •🧑‍💻 Atualmente trabalho em qualquer área da tecnologia
+<h3> •🚀 A procura de novos conhecimentos, pois todos são bem vindos
+<h4> •😄 Pronouns: Ele/Dele
+<h5> •👨‍💻 Estudando Java até aprofundar o máximo possivel de conhecimento
   
 <div>
   <a href="https://github.com/NattanGama">
