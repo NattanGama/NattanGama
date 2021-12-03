@@ -9,9 +9,9 @@
 <div>
   <a href="https://github.com/NattanGama">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=NattanGama&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NattanGama&layout=compact&langs_count=7&theme=react" />
 
-  <img align="center" width="148" height="180" src="https://www.google.com.br/url?sa=i&url=http%3A%2F%2Fclubedosgeeks.com.br%2Fprogramacao%2F10-gifs-que-retratam-a-vida-de-um-programador&psig=AOvVaw1FIuwy5XFouTaGCUpOe1nz&ust=1638578282475000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKC7hPexxvQCFQAAAAAdAAAAABAD">
+  <img align="center" width="148" height="180" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 </div>
  <br>
 <div  align="center"> 
