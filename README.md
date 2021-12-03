@@ -1,5 +1,5 @@
 <h1> Hello! My name is Nattan. Nice to meet you! </h1>
-<a href="https://media4.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif?cid=790b7611346511b4d08065cc1de42ad042700cdd6d0d8873&rid=giphy.gif&ct=g"/>
+<img height="https://media4.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif?cid=790b7611346511b4d08065cc1de42ad042700cdd6d0d8873&rid=giphy.gif&ct=g"/>
 <h4> •🧑‍💻 Atualmente trabalho em qualquer área da Tecnologia
 <h4> •🚀 A procura de novos conhecimentos, pois todos são bem vindos
 <h4> •😄 Pronouns: Ele/Dele
