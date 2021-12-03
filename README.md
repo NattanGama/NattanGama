@@ -1,5 +1,10 @@
-<h1> Hi! My name is Nattan. Nice to meet you! </h1>
+<h1> Hello! My name is Nattan. Nice to meet you! </h1>
 
+<h1> •🧑‍💻 Atualmente trabalho em qualquer área da tecnologia
+<h1> •🚀 A procura de novos conhecimentos, pois todos são bem vindos
+<h1> •😄 Pronouns: Ele/Dele
+<h1> •👨‍💻 Estudando Java até aprofundar o máximo possivel de conhecimento
+  
 <div>
   <a href="https://github.com/NattanGama">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=NattanGama&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
