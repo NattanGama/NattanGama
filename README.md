@@ -1,6 +1,6 @@
 <h1> Hello! My name is Nattan. Nice to meet you! </h1>
 
-<h4> •🧑‍💻 Atualmente trabalho em qualquer área da tecnologia
+<h4> •🧑‍💻 Atualmente trabalho em qualquer área da Tecnologia
 <h4> •🚀 A procura de novos conhecimentos, pois todos são bem vindos
 <h4> •😄 Pronouns: Ele/Dele
 <h4> •👨‍💻 Estudando Java até aprofundar o máximo possivel de conhecimento
