@@ -3,32 +3,33 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/nattan-gama-05369a192/">
         <img 
-            height="22px"
+            height="32px"
             alt="Nattan Gama" 
             src="https://img.shields.io/badge/-Nattan%20Gama-%230077b5?style=flat-square&logo=linkedin">
     </a>
     <a href="https://www.facebook.com/nattan.gama">
         <img
-            width="82"
-            height="22px"
+            width="84"
+            height="32px"
             alt="Facebook" 
-            src="">
+            src="https://cdn.lucasferraz.com.br/img/2021/01/facebook.jpg">
     </a>
     <a href="https://www.instagram.com/nattangama/">
         <img
             width="84"
-            height="21px"
+            height="32px"
             alt="Intagram Nattan Gama" 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://open.spotify.com/user/48m7ckkz70oam1c6mjj6in8ad">
         <img
             width="75"
+            height="32px"
             alt="Youtube music" 
             src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
     </a>
     <a>
-        <img width="80" height="22px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=gabrielvieira1.gabrielvieira1"/>
+        <img width="80" height="32px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nattangama.nattangama"/>
     </a>
 </p>
 
@@ -85,7 +86,7 @@
 ### <img src="https://i.pinimg.com/originals/31/ad/60/31ad6088046dd49728ccc58bd438229a.gif"  width="90px" /> Statistics
 
  <div>
-  <a href="https://github.com/gabrielvieira1">
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielvieira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieira1&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/nattangama">
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=nattangama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattangama&layout=compact&langs_count=16&theme=dracula"/>
 </div>
