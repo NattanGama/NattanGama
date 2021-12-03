@@ -1,4 +1,4 @@
-<h1> Hello! </h1> <img align="center" width="148" height="180" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif">
+<h1> Hello! </h1> <img align="center" width="14" height="18" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif">
 <img align="right" width="148" height="198" src=""/>
 <h4> •🧑‍💻 Atualmente trabalho em qualquer área da Tecnologia
 <h4> •🚀 A procura de novos conhecimentos, pois todos são bem vindos
