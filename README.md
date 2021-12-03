@@ -11,7 +11,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=NattanGama&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
 
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img align="center" width="148" height="180" src="https://www.google.com.br/url?sa=i&url=http%3A%2F%2Fclubedosgeeks.com.br%2Fprogramacao%2F10-gifs-que-retratam-a-vida-de-um-programador&psig=AOvVaw1FIuwy5XFouTaGCUpOe1nz&ust=1638578282475000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKC7hPexxvQCFQAAAAAdAAAAABAD">
 </div>
  <br>
 <div  align="center"> 
