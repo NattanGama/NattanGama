@@ -1,4 +1,4 @@
-<h1> Hi! My name is Ellen. </h1>
+<h1> Hello! </h1>
 
 <h4> •🧑‍💻 Atualmente trabalho em qualquer área da Tecnologia
 <h4>•🚀 A procura de novos conhecimentos, pois todos são bem vindos
