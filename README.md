@@ -1,4 +1,5 @@
-<h1> Hello! <img "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" </h1>
+<h1> Hello! <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NattanGama&layout=compact&langs_count=7&theme=react" />
+
 <img align="right" width="148" height="198" src=""/>
 <h4> •🧑‍💻 Atualmente trabalho em qualquer área da Tecnologia
 <h4> •🚀 A procura de novos conhecimentos, pois todos são bem vindos
