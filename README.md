@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" style="margin-left: auto;"/> Hello Everyone!
+# <img src="https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif" align="right" width="200px"  style="margin-left: auto;"/>              Hello Everyone!
 
 <p align="center">
     <a href="https://www.linkedin.com/in/nattan-gama-05369a192/">
