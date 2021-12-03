@@ -1,4 +1,4 @@
-# <img src="https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif" align="right" width="100px"  style="margin-left: auto;"/>              Hello Everyone!
+# <img src="https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif" align="leftt" width="100px"  style="margin-left: auto;"/> Hello Everyone!
 
 <p align="center">
     <a href="https://www.linkedin.com/in/nattan-gama-05369a192/">
