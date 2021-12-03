@@ -1,6 +1,6 @@
-<h1> Hello! 
+<h1> Hello!  <img align="center" width="148" height="180" src=>
 
-<img align="right" width="148" height="198" src=""/>
+<img align="right" width="148" height="198" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif"/>
 <h4> •🧑‍💻 Atualmente trabalho em qualquer área da Tecnologia
 <h4> •🚀 A procura de novos conhecimentos, pois todos são bem vindos
 <h4> •😄 Pronouns: Ele/Dele
@@ -11,7 +11,6 @@
   <a href="https://github.com/NattanGama">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=NattanGama&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NattanGama&layout=compact&langs_count=7&theme=react" />
-
   <img align="center" width="148" height="180" src=>
 </div>
  <br>
