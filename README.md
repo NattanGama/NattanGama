@@ -29,7 +29,7 @@
             src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
     </a>
     <a>
-        <img width="80" height="32px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=gabrielvieira1.nattangama"/>
+        <img width="80" height="32px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nattangama.nattangama"/>
     </a>
 </p>
 
