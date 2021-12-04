@@ -35,19 +35,19 @@
 
 ---
 
-### <img src="https://pa1.narvii.com/6511/091d8c40631f724f678ff287dc13e95d5423d6f2_hq.gif" width="70px" /> I am a technology lover and I take opportunities to show my skills. I'm currently looking for new learnings to grow as an experienced professional in large companies or startups. 🤓💻
+### <img src="https://pa1.narvii.com/6511/091d8c40631f724f678ff287dc13e95d5423d6f2_hq.gif" width="70px" /> Eu sou um amante da tecnologia e aproveito as oportunidades para mostrar minhas habilidades. Atualmente estou em busca de novos aprendizados para crescer como profissional experiente em grandes empresas ou startups. 🤓💻
 
 ### <img src="https://i.pinimg.com/originals/11/f1/ea/11f1eaa20db67b0b231171493dfa33fe.gif" align="right" width="150px" />
 
-### <img src="https://c.tenor.com/PhCBlND-xE8AAAAC/goku-comendo.gif" width="70px" /> I've liked technology since I was a kid, I still don't have a preference for any specific technology position, but I'm open to any area! 🧐
+### <img src="https://c.tenor.com/PhCBlND-xE8AAAAC/goku-comendo.gif" width="70px" /> Gosto de tecnologia desde criança, ainda não tenho preferência por nenhum cargo específico em tecnologia, mas estou aberto a qualquer área! 🧐
 
-### <img src="https://64.media.tumblr.com/324771308e620b18243f0defccdfb26f/a2366e9d1e9bf824-ef/s500x750/e96cee532fd8f2306479ed3b0e1171a6cd1e0aaa.gifv" width="70"> <b>I really enjoy meeting different people, so if you want to introduce yourself, I'll have a great time getting to know you!</b>  😄
+### <img src="https://64.media.tumblr.com/324771308e620b18243f0defccdfb26f/a2366e9d1e9bf824-ef/s500x750/e96cee532fd8f2306479ed3b0e1171a6cd1e0aaa.gifv" width="70"> <b>Eu realmente gosto de conhecer pessoas diferentes, então se você quiser se apresentar, terei um grande momento para conhecê-lo!</b>  😄
 
 
 ![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
 
 
-# <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="100px" /> My Skills
+# <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="100px" /> Minhas habilidades
 
 <p align="center">
     <a href="https://docs.oracle.com/en/java/">
@@ -76,14 +76,14 @@
     </a>
 </p>
 
-# <img src="https://i.pinimg.com/originals/9e/ce/a1/9ecea162adb39aa8f720485abba466f6.gif" width="60px" /> Hobbies
-<p > - 🎮 I like games, and playing sports to relax my mind! 🏃‍;
-<br/> -🧠 knowledge;
-<br/> -👨‍💻 I spend the nights studying    
-<br/> 🎧🎶 i listen much musics;
+# <img src="https://i.pinimg.com/originals/9e/ce/a1/9ecea162adb39aa8f720485abba466f6.gif" width="60px" /> Passatempo
+<p > - 🎮🏃‍ Eu curto jogos, e praticar esportes para relaxar a mente! 🏃‍🎮;
+<br/> -🧠 Conhecimentos;
+<br/> -👨‍💻 Eu passo as noites estudando     
+<br/> 🎧🎶Eu escuto muitas musicas;
 </p>
 
-### <img src="https://i.pinimg.com/originals/31/ad/60/31ad6088046dd49728ccc58bd438229a.gif"  width="90px" /> Statistics
+### <img src="https://i.pinimg.com/originals/31/ad/60/31ad6088046dd49728ccc58bd438229a.gif"  width="90px" /> Dados
 
  <div>
   <a href="https://github.com/nattangama">
