@@ -82,7 +82,7 @@
 <br/> 🎧🎶Eu escuto muitas musicas;
 </p>
 
-### <img src="https://i.pinimg.com/originals/31/ad/60/31ad6088046dd49728ccc58bd438229a.gif"  width="60px" /> Estatistica
+### <img src="https://i.pinimg.com/originals/31/ad/60/31ad6088046dd49728ccc58bd438229a.gif"  width="70px" /> Estatistica
 
  <div>
   <a href="https://github.com/nattangama">
