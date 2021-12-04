@@ -1,5 +1,7 @@
 # <img src="https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif" align="right" width="150px"  style="margin-left: auto;"/> Hello Everyone!
-
+ <a>
+        <img width="80" height="32px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nattangama.nattangama"/>
+    </a>
 <p align="center">
     <a href="https://www.linkedin.com/in/nattan-gama-05369a192/">
         <img 
@@ -27,9 +29,6 @@
             height="32px"
             alt="Youtube music" 
             src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-    </a>
-    <a>
-        <img width="80" height="32px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nattangama.nattangama"/>
     </a>
 </p>
 
