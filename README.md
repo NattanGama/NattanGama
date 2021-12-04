@@ -77,7 +77,7 @@
 
 # <img src="https://i.pinimg.com/originals/9e/ce/a1/9ecea162adb39aa8f720485abba466f6.gif" width="60px" /> Passatempo
 <p > - 🎮🏃‍ Eu curto jogos, e praticar esportes para relaxar a mente! 🏃‍🎮;
-<br/> -🧠 Conhecimentos;
+<br/> -🧠 Novos conhecimentos são sempre bem vindos;
 <br/> -👨‍💻 Eu passo as noites estudando     
 <br/> 🎧🎶Eu escuto muitas musicas;
 </p>
