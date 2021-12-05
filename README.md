@@ -1,4 +1,4 @@
-# <img src="https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif" align="right" width="150px"  style="margin-left: auto;"/> Olá!
+# <img src="https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif" align="right" width="150px"  style="margin-left: auto;"/> Hello!
  <a>
         <img width="80" height="32px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nattangama.nattangama"/>
     </a>
