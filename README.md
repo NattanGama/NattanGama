@@ -76,10 +76,10 @@
 </p>
 
 # <img src="https://i.pinimg.com/originals/9e/ce/a1/9ecea162adb39aa8f720485abba466f6.gif" width="60px" /> Passatempo
-<p > - 🎮🏃‍ Eu curto jogos, e praticar esportes para relaxar a mente! 🏃‍🎮;
+<p > - 🏃‍ Eu curto jogos, e praticar esportes para relaxar a mente! 🏃‍🎮;
+<br/>  🎶 Eu escuto muitas musicas;
 <br/> -🧠 Novos conhecimentos são sempre bem vindos;
 <br/> -👨‍💻 Eu passo as noites estudando;     
-<br/> 🎧🎶Eu escuto muitas musicas;
 </p>
 
 ### <img src="https://i.pinimg.com/originals/31/ad/60/31ad6088046dd49728ccc58bd438229a.gif"  width="70px" /> Estatistica
