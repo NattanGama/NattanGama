@@ -8,6 +8,12 @@
             height="32px"
             alt="Nattan Gama" 
             src="https://img.shields.io/badge/-Nattan%20Gama-%230077b5?style=flat-square&logo=linkedin">
+        </a>
+     <a href = "mailto:gamanattan@gmail.com">
+            <img
+            width="84"
+            height="32px" 
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>  
     </a>
     <a href="https://www.facebook.com/nattan.gama">
         <img
@@ -21,7 +27,7 @@
             width="84"
             height="32px"
             alt="Intagram Nattan Gama" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">         
     </a>
     <a href="https://open.spotify.com/user/48m7ckkz70oam1c6mjj6in8ad">
         <img
@@ -64,8 +70,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     </a>
-    <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">
-    <img alt="SqlServer" src="https://img.shields.io/badge/SQLServer-00000F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+    <a href="https://azure.microsoft.com/pt-br/free/mysql/search/">
+     <img alig="center" alt="Nattan-MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
     </a>
     <a href="https://git-scm.com/">
     <img alt="Git" src="https://img.shields.io/badge/Git-E95420?style=for-the-badge&logo=git&logoColor=white"/>
