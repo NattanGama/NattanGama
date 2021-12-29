@@ -52,7 +52,7 @@
 ![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
 
 
-# <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="100px" /> Minhas habilidades
+# <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="100px" /> Tecnologias utilizadas
 
 <p align="center">
     <a href="https://docs.oracle.com/en/java/">
