@@ -81,7 +81,7 @@
     </a>
 </p>
 
-# <img src="https://i.pinimg.com/originals/9e/ce/a1/9ecea162adb39aa8f720485abba466f6.gif" width="60px" /> Tradição
+# <img src="https://i.pinimg.com/originals/9e/ce/a1/9ecea162adb39aa8f720485abba466f6.gif" width="70px" /> Tradição
 <br/> •👨‍💻 Costumo passar as noites estudando    
 </p>
 
