@@ -40,7 +40,7 @@
 
 ---
 
-### <img src="https://pa1.narvii.com/6511/091d8c40631f724f678ff287dc13e95d5423d6f2_hq.gif" width="70px" /> Eu sou um amante da tecnologia e aproveito as oportunidades para mostrar minhas habilidades. Atualmente estou em busca de novos aprendizados para crescer como profissional experiente em grandes empresas ou startups. 🤓💻
+### <img src="https://pa1.narvii.com/6511/091d8c40631f724f678ff287dc13e95d5423d6f2_hq.gif" width="70px" /> Eu sou um amante da tecnologia e aproveito as oportunidades para mostrar minhas habilidades e ter um alto aprendizado. 🙂
 
 ### <img src="https://i.pinimg.com/originals/11/f1/ea/11f1eaa20db67b0b231171493dfa33fe.gif" align="right" width="150px" />
 
