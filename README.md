@@ -44,7 +44,7 @@
 
 ### <img src="https://i.pinimg.com/originals/11/f1/ea/11f1eaa20db67b0b231171493dfa33fe.gif" align="right" width="150px" />
 
-### <img src="https://c.tenor.com/PhCBlND-xE8AAAAC/goku-comendo.gif" width="70px" /> Gosto de tecnologia desde criança, ainda não tenho preferência por nenhum cargo específico em tecnologia, mas estou aberto a qualquer área! 🧐
+### <img src="https://c.tenor.com/PhCBlND-xE8AAAAC/goku-comendo.gif" width="70px" /> Gosto de tecnologia desde criança e estou aberto a qualquer cargo! 🧐
 
 ### <img src="https://64.media.tumblr.com/324771308e620b18243f0defccdfb26f/a2366e9d1e9bf824-ef/s500x750/e96cee532fd8f2306479ed3b0e1171a6cd1e0aaa.gifv" width="70"> <b>Eu gosto bastante de conhecer pessoas novas e diferentes!</b>  😄
 
