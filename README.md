@@ -36,7 +36,7 @@
             alt="Youtube music" 
             src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
     </a>
-    <a href="81998658367" target="_blank">
+    <a href="https://api.whatsapp.com/send?phone=5581998658367&text=" target="_blank">
         <img 
          width="84"
          height="32px"
