@@ -36,7 +36,8 @@
             alt="Youtube music" 
             src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
     </a>
-</p>
+</p>![687474703a2f2f6561642e696573676f2e636f6d2e62722f706c7567696e66696c652e7068702f3535322f6d6f645f666f6c6465722f636f6e74656e742f302f636f6d70757461646f7265732e6769663f666f726365646f776e6c6f6164](https://user-images.githubusercontent.com/91083215/149652540-dbbef0a9-19f2-40cb-91cc-e6451d188167.gif)
+
 
 ---
 
@@ -92,6 +93,8 @@
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=nattangama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattangama&layout=compact&langs_count=16&theme=dracula"/>
 </div>
- # <img src=https://user-images.githubusercontent.com/89545100/134685961-eb4c293b-c48b-48be-927e-f872430ca658.gif width="70px" />
+  <img src= https://user-images.githubusercontent.com/89545100/134685961-eb4c293b-c48b-48be-927e-f872430ca658.gif width="70px" />
+ 
+  <img src= http://ead.iesgo.com.br/pluginfile.php/552/mod_folder/content/0/computadores.gif?forcedownload width="500px" />
 
  ![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
