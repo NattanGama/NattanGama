@@ -36,6 +36,13 @@
             alt="Youtube music" 
             src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
     </a>
+    <a href="https://wa.me/qr/AFB6IBUO3UPBP1" target="_blank">
+        <img 
+         width="84"
+         height="32px"
+         src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+    </a>  
+ 
 </p>
 
 ---
