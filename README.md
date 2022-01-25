@@ -1,4 +1,4 @@
-# <img src="https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif" align="right" width="150px"  style="margin-left: auto;"/> Hello!
+# <img src="" align="center" width="150px"  style="margin-left: auto;"/> Olá!! Me chamo Nattan Gama
  <a>
         <img width="80" height="32px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nattangama.nattangama"/>
     </a>
@@ -47,11 +47,13 @@
 
 ---
 
-
 ![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
 
+# <img src="http://ead.iesgo.com.br/pluginfile.php/552/mod_folder/content/0/computadores.gif?forcedownload" width="150px" /> Sobre mim 
+<br/> 👨‍💻  Sou um amante da tecnologia da informação e atendo oportunidades para apresentar minhas habilidades. Atualmente estou em busca de novos aprendizados e experiências para crescer como profissional eperiente de empresa ou startup. Por fim, informo que tenho o costume de passar as noites programando.  👨‍💻
+</p>
 
-# <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="100px" /> Tecnologias 
+# <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="170px" /> Tecnologias 
 
 <p align="center">
     <a href="https://docs.oracle.com/en/java/">
@@ -81,20 +83,14 @@
     </a>
 </p>
 
-# <img src="https://i.pinimg.com/originals/9e/ce/a1/9ecea162adb39aa8f720485abba466f6.gif" width="70px" /> Tradição
-<br/> •👨‍💻 Costumo passar as noites estudando    
-</p>
-
-### <img src="https://i.pinimg.com/originals/31/ad/60/31ad6088046dd49728ccc58bd438229a.gif"  width="70px" /> Estatistica
+# <img src="https://thumbs.gfycat.com/PrestigiousParchedLarva.webp"  width="170px" /> Estatistica
 
  <div>
   <a href="https://github.com/nattangama">
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=nattangama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattangama&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-  <img src= https://user-images.githubusercontent.com/89545100/134685961-eb4c293b-c48b-48be-927e-f872430ca658.gif width="70px" />
  
-  <img src= http://ead.iesgo.com.br/pluginfile.php/552/mod_folder/content/0/computadores.gif?forcedownload width="300px" />
- 
-
  ![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
+ 
+ <img src="https://user-images.githubusercontent.com/89545100/134685961-eb4c293b-c48b-48be-927e-f872430ca658.gif" width="100px"/>
