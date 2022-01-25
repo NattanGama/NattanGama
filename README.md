@@ -1,4 +1,7 @@
-# <img src="https://image.flaticon.com/icons/png/512/57/57049.png" align="center" width="70px"/> Olá!! Me chamo Nattan Gama.
+
+ <h2 align="center">
+ <img src="https://image.flaticon.com/icons/png/512/57/57049.png" align="center" width="70px"/> Olá!! Me chamo Nattan Gama.
+</h2>
  <a>
         <img width="80" height="32px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nattangama.nattangama"/>
     </a>
