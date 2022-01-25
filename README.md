@@ -47,10 +47,8 @@
 
 ---
 
-![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
-
 # <img src="http://ead.iesgo.com.br/pluginfile.php/552/mod_folder/content/0/computadores.gif?forcedownload" width="170px" /> Sobre mim 
-<br/> 👨‍💻  Sou um amante da tecnologia da informação e atendo oportunidades para apresentar minhas habilidades. Atualmente estou em busca de novos aprendizados e experiências para crescer como profissional eperiente de empresa ou startup. Por fim, informo que tenho o costume de passar as noites programando.  👨‍💻
+<br/> 👨‍💻  Sou um amante da tecnologia da informação e atendo oportunidades para apresentar minhas habilidades. Atualmente estou em busca de novos aprendizados e experiências para crescer como profissional experiente de empresas ou startups. Por fim, informo que tenho o costume de passar as noites programando.  👨‍💻
 </p>
 
 # <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="170px" /> Tecnologias 
@@ -93,4 +91,4 @@
  
  ![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
  
- <img src="https://user-images.githubusercontent.com/89545100/134685961-eb4c293b-c48b-48be-927e-f872430ca658.gif" align="center" width="100px"/>
+ <img src="https://user-images.githubusercontent.com/89545100/134685961-eb4c293b-c48b-48be-927e-f872430ca658.gif" align="right" width="80px"/>
