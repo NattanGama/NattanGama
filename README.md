@@ -89,6 +89,8 @@
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattangama&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
+ 
+ 
  ![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
  
  <img src="https://user-images.githubusercontent.com/89545100/134685961-eb4c293b-c48b-48be-927e-f872430ca658.gif" align="right" width="80px"/>
