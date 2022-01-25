@@ -83,7 +83,7 @@
     </a>
 </p>
 
-# <img src="https://thumbs.gfycat.com/PrestigiousParchedLarva.webp"  width="100px" /> Estatistica
+# <img src="https://thumbs.gfycat.com/FilthyShabbyGaur.webp"  width="100px" /> Estatistica
 
  <div>
   <a href="https://github.com/nattangama">
