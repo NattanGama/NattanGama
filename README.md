@@ -41,7 +41,8 @@
          width="84"
          height="32px"
          src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-    </a>  
+    </a>  ![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e617474616e67616d61266c61796f75743d636f6d70616374266c616e67735f636f756e743d3136267468656d653d64726163756c61](https://user-images.githubusercontent.com/91083215/150893149-a5ca7194-edcd-4c0d-8709-f99f5ee25626.svg)
+
  
 </p>
 
