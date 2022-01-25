@@ -1,4 +1,4 @@
-# <img src="" align="center" width="150px"  style="margin-left: auto;"/> Olá!! Me chamo Nattan Gama
+# <img src="https://image.flaticon.com/icons/png/512/57/57049.png" align="center" width="70px"/> Olá!! Me chamo Nattan Gama.
  <a>
         <img width="80" height="32px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nattangama.nattangama"/>
     </a>
@@ -49,7 +49,7 @@
 
 ![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
 
-# <img src="http://ead.iesgo.com.br/pluginfile.php/552/mod_folder/content/0/computadores.gif?forcedownload" width="150px" /> Sobre mim 
+# <img src="http://ead.iesgo.com.br/pluginfile.php/552/mod_folder/content/0/computadores.gif?forcedownload" width="170px" /> Sobre mim 
 <br/> 👨‍💻  Sou um amante da tecnologia da informação e atendo oportunidades para apresentar minhas habilidades. Atualmente estou em busca de novos aprendizados e experiências para crescer como profissional eperiente de empresa ou startup. Por fim, informo que tenho o costume de passar as noites programando.  👨‍💻
 </p>
 
@@ -93,4 +93,4 @@
  
  ![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
  
- <img src="https://user-images.githubusercontent.com/89545100/134685961-eb4c293b-c48b-48be-927e-f872430ca658.gif" width="100px"/>
+ <img src="https://user-images.githubusercontent.com/89545100/134685961-eb4c293b-c48b-48be-927e-f872430ca658.gif" align="center" width="100px"/>
