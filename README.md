@@ -50,7 +50,7 @@
 ---
 
 # <img src="http://ead.iesgo.com.br/pluginfile.php/552/mod_folder/content/0/computadores.gif?forcedownload" width="100px" /> Sobre mim 
-<br/> 👨‍💻  Sou um amante da tecnologia da informação e atendo oportunidades para apresentar minhas habilidades. Atualmente estou em busca de novos aprendizados e experiências para crescer como profissional experiente de empresas ou startups. Por fim, informo que tenho o costume de passar as noites programando.  👨‍💻
+<br/> 👨‍💻  Sou um amante da tecnologia, e atendo oportunidades para apresentar minhas habilidades. Atualmente estou em busca de novos aprendizados para crescer como profissional experiente de empresas ou startups.  👨‍💻
 </p>
 
 # <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="100px" /> Tecnologias 
