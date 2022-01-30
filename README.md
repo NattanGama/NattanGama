@@ -85,7 +85,7 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
     </a>
 </p>
 
-# <img src="https://thumbs.gfycat.com/FilthyShabbyGaur.webp"  width="100px" /> Estatistica
+# <img src="https://thumbs.gfycat.com/FilthyShabbyGaur.webp"  width="100px" /> Estatística
 
  <div>
   <a href="https://github.com/nattangama">
