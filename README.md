@@ -51,7 +51,7 @@
 ---
 
 # <img src="http://ead.iesgo.com.br/pluginfile.php/552/mod_folder/content/0/computadores.gif?forcedownload=1" width="100px" /> Sobre mim 
-<br/> 👨‍💻  Sou um amante das tecnologias! Atualmente estou aberto para novas oportunidades e assim crescer como profissional experiente de empresas ou startups. 
+<br/> 👨‍💻  Sou um amante das tecnologias! Atualmente estou aberto para novos desafios e assim crescer como profissional experiente de empresas ou startups. 
 
 Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
 </p>
