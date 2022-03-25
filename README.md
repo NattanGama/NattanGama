@@ -78,6 +78,9 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     </a>
+    <a href="https://angular.io/">
+    <img alt="Angular" src="https://probella.com/wp-content/uploads/2018/03/Angular-JavaScript.png" width="90"/>
+    </a>
     <a href="https://azure.microsoft.com/pt-br/free/mysql/search/">
      <img alig="center" alt="Nattan-MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
     </a>
