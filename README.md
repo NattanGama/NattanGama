@@ -1,5 +1,5 @@
 <h2 align="center">
- <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40px"/> Olá!! Me chamo Nattan Gama.
+  Olá! Me chamo Nattan Gama.
 <img src= https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif width= "40">
 </h2>
  <a>
