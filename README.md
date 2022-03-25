@@ -68,6 +68,9 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
     <a href="https://www.python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28"/>
+    </a>
     <img alt="CSharp" src="https://img.shields.io/badge/CSharp-4F0599?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
