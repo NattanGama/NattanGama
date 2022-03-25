@@ -89,16 +89,14 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
 # <img src="https://thumbs.gfycat.com/FilthyShabbyGaur.webp"  width="100px" /> Estatística
 
  <div>
-  <a href="https://github.com/nattangama">
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=nattangama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattangama&layout=compact&langs_count=16&theme=dracula"/>
-</div>
  
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nattangama&show_icons=true&theme=dark&locale=en&layout=compact" alt="nattangama" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nattangama&show_icons=true&theme=dark&locale=en" alt="nattangama" /></p>
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nattangama&theme=dark" alt="nattan" /></p>
+ 
+ </div>
  
  ![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
  
