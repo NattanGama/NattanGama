@@ -105,10 +105,7 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
  
  ![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
  
-  <h3><p align="center">Total de visitas no perfil:</p>
-  <p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/nattangama/count.svg"/>
-  </p>
+ 
   
   
       
