@@ -109,6 +109,8 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
   <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/nattangama/count.svg"/>
   </p>
+  
+  
       
   
 
