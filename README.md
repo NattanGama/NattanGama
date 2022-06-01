@@ -19,13 +19,6 @@
             height="32px" 
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>  
     </a>
-    <a href="https://www.facebook.com/nattan.gama">
-        <img
-            width="84"
-            height="32px"
-            alt="Facebook" 
-            src="https://cdn.lucasferraz.com.br/img/2021/01/facebook.jpg">
-    </a>
     <a href="https://www.instagram.com/nattangama/">
         <img
             width="84"
@@ -81,6 +74,12 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
     <a href="https://azure.microsoft.com/pt-br/free/mysql/search/">
      <img alig="center" alt="Nattan-MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
     </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img alig="center" alt="Html5" src= "https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/>
+    </a>
+ <a href="https://getbootstrap.com">
+    <img alig="center" alt="Html5" src= "https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772be1ce0cb02da5879e5614e236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"/>
+   </a>
     <a href="https://git-scm.com/">
     <img alt="Git" src="https://img.shields.io/badge/Git-E95420?style=for-the-badge&logo=git&logoColor=white"/>
     </a>
