@@ -1,4 +1,5 @@
 <h2 align="center">
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
   Olá! Me chamo Nattan Gama.
 <img src= https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif width= "40">
 </h2>
