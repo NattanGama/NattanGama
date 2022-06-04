@@ -44,13 +44,13 @@
 
 ---
 
-# <img src="http://ead.iesgo.com.br/pluginfile.php/552/mod_folder/content/0/computadores.gif?forcedownload=1" width="100px" /> Sobre mim 
+# <img src="http://ead.iesgo.com.br/pluginfile.php/552/mod_folder/content/0/computadores.gif?forcedownload=1" height="100px" width="100px" /> Sobre mim 
 <br/> 👨‍💻  Sou um amante das tecnologias! Atualmente estou aberto para novos desafios e assim crescer como profissional experiente de empresas ou startups. 
 
 Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
 </p>
 
-# <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="100px" /> Tecnologias 
+# <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" height="100px" width="100px" /> Tecnologias 
 
 <p align="center">
     <a href="https://docs.oracle.com/en/java/">
@@ -88,7 +88,7 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
     </a>
 </p>
 
-# <img src="https://thumbs.gfycat.com/FilthyShabbyGaur.webp"  width="100px" /> Estatística
+# <img src="https://thumbs.gfycat.com/FilthyShabbyGaur.webp" height="100px" width="100px" /> Estatística
 
  <div>
  
