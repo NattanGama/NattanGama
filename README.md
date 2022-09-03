@@ -54,37 +54,40 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
 
 <p align="center">
     <a href="https://docs.oracle.com/en/java/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <img alt="Java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="45px" width="45px/>
+    </a>
+    <a href="https://docs.oracle.com/en/java/">
+    <img alt="PHP" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" height="50px" width="50px"/>
     </a>
     <a href="https://spring.io/">
-    <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img alt="Spring" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" height="40px" width="40px/>
     </a>
     <a href="https://www.python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="50px" width="50px"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img alt="JavaScript" src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145"/>
+    <img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="38px" width="38px"/>
     </a>
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
-    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-4F0599?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img alt="CSharp" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="40px" width="40px"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="50px" width="50px"/>
     </a>
     <a href="https://azure.microsoft.com/pt-br/free/mysql/search/">
-     <img alig="center" alt="Nattan-MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
+     <img alig="center" alt="MySql" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-15.png" height="45px" width="45px">  
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img alig="center" alt="Html5" src= "https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/>
+    <img alt="Html5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="50px" width="50px"/>
     </a>
  <a href="https://getbootstrap.com">
-    <img alig="center" alt="Html5" src= "https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772be1ce0cb02da5879e5614e236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"/>
+    <img alig="center" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="42px" width="42px/>
    </a>
     <a href="https://git-scm.com/">
-    <img alt="Git" src="https://img.shields.io/badge/Git-E95420?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="45px" width="45px"/>
     </a>
     <a href="https://github.com/">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="GitHub" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" height="45px" width="45px"/>
     </a>
 </p>
 
