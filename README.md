@@ -56,7 +56,7 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
     <a href="https://docs.oracle.com/en/java/">
     <img alt="Java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="45px" width="45px/>
     </a>
-    <a href="https://docs.oracle.com/en/java/">
+    <a href="https://www.php.net/manual/pt_BR/tutorial.php">
     <img alt="PHP" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" height="50px" width="50px"/>
     </a>
     <a href="https://spring.io/">
