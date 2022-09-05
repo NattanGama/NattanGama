@@ -62,7 +62,7 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
     <a href="https://spring.io/">
     <img alt="Spring" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" height="40px" width="40px/>
     </a>
-    <a href="https://www.python.org/">
+    <a href="https://docs.python.org/pt-br/3/tutorial/">
     <img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="50px" width="50px"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
