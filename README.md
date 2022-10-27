@@ -74,9 +74,6 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="50px" width="50px"/>
     </a>
-    <a href="https://angular.io/start">
-    <img alt="ANGULAR" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" height="50px" width="50px"/>
-    </a>
     <a href="https://azure.microsoft.com/pt-br/free/mysql/search/">
      <img alig="center" alt="MySql" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-15.png" height="45px" width="45px">  
     </a>
