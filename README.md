@@ -80,6 +80,9 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img alt="Html5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="50px" width="50px"/>
     </a>
+<a href="https://angular.io/tutorial">
+    <img alt="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" height="50px" width="50px"/>
+    </a>
  <a href="https://getbootstrap.com">
     <img alig="center" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="42px" width="42px/>
    </a>
