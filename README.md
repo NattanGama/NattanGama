@@ -24,11 +24,11 @@
             alt="Intagram Nattan Gama" 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">         
     </a>
-    <a href="https://open.spotify.com/user/48m7ckkz70oam1c6mjj6in8ad">
+    <a href="tiktok.com/@nattangama">
         <img
             width="75"
             height="32px"
-            alt="Youtube music" 
+            alt="Tiktok Nattan Gama" 
             src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
     </a>
     <a href="https://api.whatsapp.com/send?phone=5581998658367&text=" target="_blank">
@@ -109,7 +109,7 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
  
                                                                                                                        
 <a>
-        <img width="80" height="32px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nattangama.nattangama"/>
+        <img width="50" height="22px" align="right"  alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nattangama.nattangama"/>
     </a>
  
   
