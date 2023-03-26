@@ -7,36 +7,31 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/nattangama/">
         <img 
-            height="32px"
-            alt="Nattan Gama" 
+            width="90"
+            height="32px" 
+            alt="LinkedIn" 
             src="https://img.shields.io/badge/-Nattan%20Gama-%230077b5?style=flat-square&logo=linkedin">
         </a>
      <a href = "mailto:gamanattan@gmail.com">
             <img
-            width="84"
+            width="90"
             height="32px" 
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>  
     </a>
     <a href="https://www.instagram.com/nattangama/">
         <img
-            width="84"
+            width="90"
             height="32px"
             alt="Intagram Nattan Gama" 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">         
     </a>
     <a href="tiktok.com/@nattangama">
         <img
-            width="75"
+            width="90"
             height="32px"
             alt="Tiktok Nattan Gama" 
-            src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+            src="https://www.internetmatters.org/wp-content/uploads/2019/04/Tik_Tok_logo-600x310.png">
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5581998658367&text=" target="_blank">
-        <img 
-         width="84"
-         height="32px"
-         src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-    </a> 
     
 </p>
 
