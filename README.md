@@ -3,9 +3,7 @@
   Olá! Me chamo Nattan Gama.
 <img src= https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif width= "40">
 </h2>
- <a>
-        <img width="80" height="32px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nattangama.nattangama"/>
-    </a>
+
 <p align="center">
     <a href="https://www.linkedin.com/in/nattangama/">
         <img 
@@ -110,7 +108,9 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
  
  
                                                                                                                        
-
+<a>
+        <img width="80" height="32px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nattangama.nattangama"/>
+    </a>
  
   
   
