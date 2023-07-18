@@ -100,7 +100,6 @@ Gosto de sempre estar em busca de novos conhecimentos da tecnologia! 👨‍💻
  </div>
  
  ![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
-  ![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
  
  
                                                                                                                        
