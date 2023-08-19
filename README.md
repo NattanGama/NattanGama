@@ -210,7 +210,7 @@
 <hr/>
 <a align="right" width="185px" alt="Garota trabalhando com programação"><h2>Contactos</h2></a>
 <br/><br/>
-<p align="left">
+<p align="center">
   <a href="mailto:gamanattan@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/2913/2913990.png" alt="Etiqueta do Gmail" height="50px" />
     &nbsp;
