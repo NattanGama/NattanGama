@@ -23,7 +23,7 @@
 </div>
 <hr/>
 
-<img align="center" src="" width="100%" alt="Sobre Mim" />
+<a align="center" src="" width="100%" alt="Sobre Mim"><h2>Sobre Mim</h2> </a>
 <img align="right" src="https://camo.githubusercontent.com/484de09f77d50fb888034e38a5ed115de5a2f9f81b94af44017e339809567b6e/68747470733a2f2f7777772e696d6167656e73616e696d616461732e636f6d2f646174612f6d656469612f35362f636f6d70757461646f722d696d6167656d2d616e696d6164612d303030342e676966" border="2" width="200px" height="200px"/>
 <ul>
   <li>Me chamo Nattan Gama...</li>
@@ -33,8 +33,8 @@
 <br/>
 <hr/>
 
-<img align="center" src="./components/titles/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
-<table align="center" height="150px">
+<a align="center" width="100%" alt="Título da seção Minha Stack"><h2>Minhas Stacks</h2> </a>
+<table align="center" height="300px">
   
   <!--Stacks-->
   <tr>
@@ -208,44 +208,27 @@
 </table>
 <br/><br/><br/><br/>
 <hr/>
-
-<img align="center" src="./components/titles/pt/contact.png" width="100%" alt="Título da seção Contato" />
-<img align="right" width="185px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo3cjZ0ODhiazl4amFsYjQxZ3BvdmdqZDF2d2dnaXRuaHhyOHRjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Garota trabalhando com programação"/>
+<a align="right" width="185px" alt="Garota trabalhando com programação"><h2>Contactos</h2></a>
 <br/><br/>
-<p align="center">
-  <a href="https://www.canva.com/design/DAFSw49nC14/CDdcLsJ4a-uwMAWG_cq4zQ/view?utm_content=DAFSw49nC14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
-    <img src="./components/icons/pt/cv.png" alt="Etiqueta de Currículo" height="30px" />
+<p align="left">
+  <a href="mailto:gamanattan@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/2913/2913990.png" alt="Etiqueta do Gmail" height="50px" />
     &nbsp;
   </a>
-  <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
-    <img src="./components/icons/gmail.png" alt="Etiqueta do Gmail" height="30px" />
+  <a href="https://www.linkedin.com/in/nattangama/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/1377/1377213.png" alt="Etiqueta do Linkedin" height="50px" />
     &nbsp;
   </a>
-  <a href="https://www.linkedin.com/in/lucasmacielf/" target="_blank">
-    <img src="./components/icons/linkedin.png" alt="Etiqueta do Linkedin" height="30px" />
+  <a href="https://nattangama.github.io/Portfolio-Dev/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/1454/1454827.png" alt="Etiqueta do Portfolio" height="50px" />
     &nbsp;
   </a>
-  <a href="https://cursos.alura.com.br/vitrinedev/lucasmacielf" target="_blank">
-    <img src="./components/icons/vitrine-dev.png" alt="Etiqueta da Vitrine.Dev" height="30px" />
+  <a href="" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/3670/3670051.png" alt="Etiqueta do WhatsApp" height="50px"/>
     &nbsp;
   </a>
-  <a href="https://t.me/lu_k4x" target="_blank">
-    <img src="./components/icons/telegram.png" alt="Etiqueta do Telegram" height="30px" />
-    &nbsp;
-  </a>
-  <a href="https://wa.me/5522996112570?text=Yo,%20Luk4x!%20Vim%20pelo%20seu%20Github!" target="_blank">
-    <img src="./components/icons/whatsapp.png" alt="Etiqueta do Whatsapp" height="30px" />
-    &nbsp;
-  </a>
-  <a href="https://www.instagram.com/lu_k4x/" target="_blank">
-    <img src="./components/icons/instagram.png" alt="Etiqueta do Instagram" height="30px" />
-    &nbsp;
-  </a>
-  <a href="https://stackoverflow.com/users/18881418/lucas-maciel" target="_blank">
-    <img src="./components/icons/stack-overflow.png" alt="Etiqueta do Stack Overflow" height="30px" />
-    &nbsp;
-  </a>
-  <img src="./components/icons/discord.png" alt="Etiqueta do Discord" height="30px" />
+    <a href="https://discord.com/channels/@nattangama" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" alt="Etiqueta do Discord" height="50px" />
 </p>
 <br/><br/>
 <hr/>
