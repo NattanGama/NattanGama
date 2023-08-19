@@ -208,8 +208,10 @@
 </table>
 <br/><br/><br/><br/>
 <hr/>
-<a align="right" width="185px" alt="Garota trabalhando com programação"><h2>Contactos</h2></a>
+<h2>Contactos</h2></a>
 <br/><br/>
+
+<img align="right" width="350px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Homem escrevendo código"/>
 <p align="center">
   <a href="mailto:gamanattan@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/2913/2913990.png" alt="Etiqueta do Gmail" height="50px" />
@@ -235,7 +237,6 @@
 <hr/>
 
 <a align="center" src="" alt="Título da seção Projetos"><h2>Projetos</h2></a>
-<img align="left" src="./images/projects-wallpaper.gif" height="495px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
 <table height="405px" align="center">
   <tr>
     <td>
