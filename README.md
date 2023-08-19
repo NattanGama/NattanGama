@@ -224,6 +224,7 @@
     &nbsp;
   </a>
   <a href="" target="_blank">
+    <a href="https://api.whatsapp.com/send/?phone=351932493721" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3670/3670051.png" alt="Etiqueta do WhatsApp" height="50px"/>
     &nbsp;
   </a>
