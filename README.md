@@ -229,18 +229,17 @@
     &nbsp;
   </a>
     <a href="https://discord.com/channels/@nattangama" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" alt="Etiqueta do Discord" height="50px" />
+  <img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" alt="Etiqueta do Discord" height="50px"/>
 </p>
 <br/><br/>
 <hr/>
 
-<img align="center" src="./components/titles/pt/project.png" width="100%" alt="Título da seção Projetos" />
+<a align="center" src="" alt="Título da seção Projetos"><h2>Projetos</h2></a>
 <img align="left" src="./images/projects-wallpaper.gif" height="495px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
-<table height="495px" align="right">
+<table height="405px" align="center">
   <tr>
     <td>
     <a href="" target="_blank">
-      <img align="center" src="https://nattan-github-readme-stats.vercel.app/api/pin?username=nattan&repo=apple-store&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
@@ -392,10 +391,10 @@
     </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 
-<img align="center" src="./components/titles/pt/activity.png" width="100%" alt="Título da seção Atividade" />
+<a align="center" src="./components/titles/pt/activity.png" width="100%" alt="Título da seção Atividade"><h2>Atividades</h2></a>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 <img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
 <div align="right">
@@ -404,10 +403,8 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
+  <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400"/>
 </div>
-<img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
-
 
 
 
