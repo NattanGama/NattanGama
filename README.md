@@ -24,7 +24,7 @@
 <hr/>
 
 <a align="center" src="" width="100%" alt="Sobre Mim"><h2>Sobre Mim</h2> </a>
-<img align="right" src="https://camo.githubusercontent.com/484de09f77d50fb888034e38a5ed115de5a2f9f81b94af44017e339809567b6e/68747470733a2f2f7777772e696d6167656e73616e696d616461732e636f6d2f646174612f6d656469612f35362f636f6d70757461646f722d696d6167656d2d616e696d6164612d303030342e676966" border="2" width="200px" height="300px"/>
+<img align="right" src="https://camo.githubusercontent.com/484de09f77d50fb888034e38a5ed115de5a2f9f81b94af44017e339809567b6e/68747470733a2f2f7777772e696d6167656e73616e696d616461732e636f6d2f646174612f6d656469612f35362f636f6d70757461646f722d696d6167656d2d616e696d6164612d303030342e676966" border="2" width="200px" height="250px"/>
 <ul>
   <li>👋🏻 Olá, me chamo Nattan Gama...</li>
   <br/>
@@ -214,7 +214,7 @@
 <br/>
 <hr/>
 <h2>Contactos</h2></a>
-<img align="right" width="300px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Homem escrevendo código"/>
+<img align="right" width="270px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Homem escrevendo código"/>
 <br/><br/><br/><br/>
 <p align="center">
   <a href="mailto:gamanattan@gmail.com" target="_blank">
