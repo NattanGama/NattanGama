@@ -21,6 +21,7 @@
 <div align="center">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=nattan&repo=nattan&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Visitas do Perfil no Github do Nattan" height="50px" />
 </div>
+<br/>
 <hr/>
 
 <a align="center" src="" width="100%" alt="Sobre Mim"><h2>Sobre Mim</h2> </a>
