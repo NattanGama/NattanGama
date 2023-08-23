@@ -26,17 +26,21 @@
 <a align="center" src="" width="100%" alt="Sobre Mim"><h2>Sobre Mim</h2> </a>
 <img align="right" src="https://camo.githubusercontent.com/484de09f77d50fb888034e38a5ed115de5a2f9f81b94af44017e339809567b6e/68747470733a2f2f7777772e696d6167656e73616e696d616461732e636f6d2f646174612f6d656469612f35362f636f6d70757461646f722d696d6167656d2d616e696d6164612d303030342e676966" border="2" width="200px" height="200px"/>
 <ul>
-  <li>Ola, meu nome e Nattan Gama...</li>
+  <li>👋🏻 Olá, me chamo Nattan Gama...</li>
   <br/>
-  <li>Em 2 anos de <b>experiência</b>, tenho autonomia em diversas tecnologias com alta relevancia do mercado.</li>
+  <li>💼 Sou um desenvolvedor que encontra uma profunda paixão no universo do desenvolvimento de software e no ambiente de treino da academia.</li> 
   <br/>
-  <li>Iniciei a exploração do desenvolvimento front-end, contudo, possuo conhecimento do back-end, o que me facilita migrar para outras areas da IT.</li>
+  <li>🗺️ Minha jornada envolve equilibrar a empolgação de criar soluções tecnológicas inovadoras com o desejo de aprimorar minha saúde e bem-estar. Ao mesmo tempo em que mergulho na resolução de desafios complexos por meio do código, também busco superar obstáculos físicos na academia, refletindo minha determinação em alcançar o melhor em ambos os aspectos da minha vida.</li>
+  <br/>
+  <li>💻 Iniciei a exploração do desenvolvimento front-end, contudo, possuo conhecimento do back-end e mobile, o que me facilita migrar para outras areas da IT.</li>
 </ul>
-<br/><br/>
+<br/>
 <hr/>
 
 <a align="center" width="100%" alt="Título da seção Minha Stack"><h2>Minhas Stacks</h2> </a>
-<table align="center" height="450px">  
+<table align="center" height="450px">
+<br/>
+  
   <!--Stacks-->
   <tr>
     <td align="center">
@@ -209,8 +213,8 @@
 </table>
 <hr/>
 <h2>Contactos</h2></a>
-<img align="right" width="285px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Homem escrevendo código"/>
-<br/><br/><br/>
+<img align="right" width="280px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Homem escrevendo código"/>
+<br/><br/><br/><br/>
 <p align="center">
   <a href="mailto:gamanattan@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/2913/2913990.png" alt="Etiqueta do Gmail" height="50px" />
