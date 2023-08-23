@@ -15,7 +15,7 @@
 <hr/>
 
 <a href="" alt="Repositório do Banner Nattan">
-  <img align="center" width="1000px" height="400px" alt="Banner do Github do Nattan" src="https://i.pinimg.com/originals/82/4b/87/824b877bf4c731e3fcc13a8881c3e982.jpg" />
+  <img align="center" width="1000px" height="300px" alt="Banner do Github do Nattan" src="https://i.pinimg.com/originals/82/4b/87/824b877bf4c731e3fcc13a8881c3e982.jpg" />
 </a>
 <br/><br/>
 <div align="center">
@@ -26,19 +26,17 @@
 <a align="center" src="" width="100%" alt="Sobre Mim"><h2>Sobre Mim</h2> </a>
 <img align="right" src="https://camo.githubusercontent.com/484de09f77d50fb888034e38a5ed115de5a2f9f81b94af44017e339809567b6e/68747470733a2f2f7777772e696d6167656e73616e696d616461732e636f6d2f646174612f6d656469612f35362f636f6d70757461646f722d696d6167656d2d616e696d6164612d303030342e676966" border="2" width="200px" height="200px"/>
 <ul>
-  <li>Me chamo Nattan Gama...</li>
+  <li>Ola, meu nome e Nattan Gama...</li>
   <br/>
-  <li>Com 2 anos de <b>experiência</b>, tenho autonomia em diversas tecnologias com alta relevancia do mercado.</li>
+  <li>Em 2 anos de <b>experiência</b>, tenho autonomia em diversas tecnologias com alta relevancia do mercado.</li>
   <br/>
-  <li>Iniciei a exploração do desenvolvimento front-end, contudo, possuo conhecimento do back-end e mobile, o que me facilita migrar para outras areas da IT.</li>
+  <li>Iniciei a exploração do desenvolvimento front-end, contudo, possuo conhecimento do back-end, o que me facilita migrar para outras areas da IT.</li>
 </ul>
 <br/><br/>
 <hr/>
 
 <a align="center" width="100%" alt="Título da seção Minha Stack"><h2>Minhas Stacks</h2> </a>
-<table align="center" height="300px">
-<br/>
-  
+<table align="center" height="450px">  
   <!--Stacks-->
   <tr>
     <td align="center">
@@ -209,11 +207,10 @@
       </a>
     </td>
 </table>
-<br/><br/><br/><br/>
 <hr/>
 <h2>Contactos</h2></a>
-<img align="right" width="280px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Homem escrevendo código"/>
-<br/><br/><br/><br/>
+<img align="right" width="285px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Homem escrevendo código"/>
+<br/><br/><br/>
 <p align="center">
   <a href="mailto:gamanattan@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/2913/2913990.png" alt="Etiqueta do Gmail" height="50px" />
