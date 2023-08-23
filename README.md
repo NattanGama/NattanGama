@@ -19,9 +19,8 @@
 </a>
 <br/><br/>
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=nattan&repo=nattan&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Visitas do Perfil no Github do Nattan" height="50px" />
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=nattan&repo=nattan&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Visitas do Perfil no Github do Nattan" height="30px" />
 </div>
-<br/>
 <hr/>
 
 <a align="center" src="" width="100%" alt="Sobre Mim"><h2>Sobre Mim</h2> </a>
@@ -39,7 +38,7 @@
 <hr/>
 
 <a align="center" width="100%" alt="Título da seção Minha Stack"><h2>Minhas Stacks</h2> </a>
-<table align="center" height="300px">
+<table align="center" height="350px">
 <br/>
   
   <!--Stacks-->
@@ -212,7 +211,7 @@
       </a>
     </td>
 </table>
-<br/><br/><br/><br/>
+<br/>
 <hr/>
 <h2>Contactos</h2></a>
 <img align="right" width="280px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Homem escrevendo código"/>
