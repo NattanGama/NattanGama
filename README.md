@@ -15,7 +15,7 @@
 <hr/>
 
 <a href="" alt="Repositório do Banner Nattan">
-  <img align="center" width="100000px" height="400px" alt="Banner do Github do Nattan" src="https://github.com/nattangama/NattanGama/assets/91083215/bc01a985-3f04-463e-abdf-c7e14dfaf380" />
+  <img align="center" width="1000px" height="350px" alt="Banner do Github do Nattan" src="https://github.com/nattangama/NattanGama/assets/91083215/bc01a985-3f04-463e-abdf-c7e14dfaf380" />
 
 
 
