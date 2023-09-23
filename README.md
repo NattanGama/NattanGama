@@ -51,7 +51,7 @@
   <!--Stacks-->
       
   <img align="left" src="https://github.com/nattangama/NattanGama/assets/91083215/4a3aead5-59fe-4dab-897c-47578f186df0" border="2" width="300px" height="300px"/>
-
+  <br/><br/><br/>
   <tr>
     <td align="center">
       <a href="https://www.svgrepo.com/show/354380/spring-icon.svg">
