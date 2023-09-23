@@ -15,7 +15,11 @@
 <hr/>
 
 <a href="" alt="Repositório do Banner Nattan">
-  <img align="center" width="1000px" height="250px" alt="Banner do Github do Nattan" src="https://i.pinimg.com/originals/82/4b/87/824b877bf4c731e3fcc13a8881c3e982.jpg" />
+  <img align="center" width="100000px" height="400px" alt="Banner do Github do Nattan" src="https://github.com/nattangama/NattanGama/assets/91083215/bc01a985-3f04-463e-abdf-c7e14dfaf380" />
+
+
+
+  
 </a>
 <br/><br/>
 <div align="center">
@@ -24,7 +28,8 @@
 <hr/>
 
 <a align="center" src="" width="100%" alt="Sobre Mim"><h2>Sobre Mim</h2> </a>
-<img align="right" src="https://camo.githubusercontent.com/484de09f77d50fb888034e38a5ed115de5a2f9f81b94af44017e339809567b6e/68747470733a2f2f7777772e696d6167656e73616e696d616461732e636f6d2f646174612f6d656469612f35362f636f6d70757461646f722d696d6167656d2d616e696d6164612d303030342e676966" border="2" width="200px" height="250px"/>
+<img align="right" src="https://github.com/nattangama/NattanGama/assets/91083215/aa513401-5818-4de0-9e40-c7ba4c647dd1" border="2" width="250px" height="280px"/>
+
 <ul>
   <li>👋🏻 Olá, me chamo Nattan Gama...</li>
   <br/>
@@ -36,8 +41,9 @@
 </ul>
 <br/>
 <hr/>
-
-<a align="center" width="100%" alt="Título da seção Minha Stack"><h2>Minhas Stacks</h2> </a>
+  
+<a align="right" width="100%" alt="Título da seção Minha Stack"><h2>Minhas Stacks</h2> </a>
+  <img align="left" src="https://github.com/nattangama/NattanGama/assets/91083215/4a3aead5-59fe-4dab-897c-47578f186df0" border="2" width="350px" height="350px"/>
 <table align="center" height="375px">
 <br/>
   
@@ -214,28 +220,31 @@
 <br/>
 <hr/>
 <h2>Contactos</h2></a>
-<img align="right" width="350px" src="https://im4.ezgif.com/tmp/ezgif-4-21116158da.gif" alt="Homem escrevendo código"/>
+
+ <img align="right" width="300px" src="https://camo.githubusercontent.com/484de09f77d50fb888034e38a5ed115de5a2f9f81b94af44017e339809567b6e/68747470733a2f2f7777772e696d6167656e73616e696d616461732e636f6d2f646174612f6d656469612f35362f636f6d70757461646f722d696d6167656d2d616e696d6164612d303030342e676966" alt="Homem batendo no computador"/>
+ 
 <br/><br/><br/><br/>
+
 <p align="center">
   <a href="mailto:gamanattan@gmail.com" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/large_2x/gmail-icon-free-png.png" alt="Etiqueta do Gmail" height="50px" />
+    <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/large_2x/gmail-icon-free-png.png" alt="Etiqueta do Gmail" height="80px" />
     &nbsp;
   </a>
   <a href="https://www.linkedin.com/in/nattangama/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/1377/1377213.png" alt="Etiqueta do Linkedin" height="50px" />
+    <img src="https://cdn-icons-png.flaticon.com/128/1377/1377213.png" alt="Etiqueta do Linkedin" height="80px" />
     &nbsp;
   </a>
   <a href="https://nattangama.github.io/Portfolio-Dev/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/1454/1454827.png" alt="Etiqueta do Portfolio" height="50px" />
+    <img src="https://cdn-icons-png.flaticon.com/128/1454/1454827.png" alt="Etiqueta do Portfolio" height="80px" />
     &nbsp;
   </a>
   <a href="" target="_blank">
     <a href="https://api.whatsapp.com/send/?phone=351932493721" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3670/3670051.png" alt="Etiqueta do WhatsApp" height="50px"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/3670/3670051.png" alt="Etiqueta do WhatsApp" height="80px"/>
     &nbsp;
   </a>
     <a href="https://discord.com/channels/@nattangama" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" alt="Etiqueta do Discord" height="50px"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" alt="Etiqueta do Discord" height="80px"/>
 
 </p>
 <br/><br/>
