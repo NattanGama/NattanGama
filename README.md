@@ -214,7 +214,7 @@
 <br/>
 <hr/>
 <h2>Contactos</h2></a>
-<img align="right" width="270px" src="https://im4.ezgif.com/tmp/ezgif-4-21116158da.gif" alt="Homem escrevendo código"/>
+<img align="right" width="350px" src="https://im4.ezgif.com/tmp/ezgif-4-21116158da.gif" alt="Homem escrevendo código"/>
 <br/><br/><br/><br/>
 <p align="center">
   <a href="mailto:gamanattan@gmail.com" target="_blank">
