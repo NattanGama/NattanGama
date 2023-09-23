@@ -233,8 +233,10 @@
 <h2>Contactos</h2></a>
 <div>
  <img align="right" width="250px" height="280px" src="https://camo.githubusercontent.com/484de09f77d50fb888034e38a5ed115de5a2f9f81b94af44017e339809567b6e/68747470733a2f2f7777772e696d6167656e73616e696d616461732e636f6d2f646174612f6d656469612f35362f636f6d70757461646f722d696d6167656d2d616e696d6164612d303030342e676966" alt="Homem batendo no computador"/>
+<br/><br/>
 </div> 
-<br/><br/><br/><br/><br/>
+
+<br/><br/><br/>
 
 <p align="center">
   <a href="mailto:gamanattan@gmail.com" target="_blank">
