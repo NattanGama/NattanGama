@@ -214,11 +214,11 @@
 <br/>
 <hr/>
 <h2>Contactos</h2></a>
-<img align="right" width="270px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Homem escrevendo código"/>
+<img align="right" width="270px" src="https://im4.ezgif.com/tmp/ezgif-4-21116158da.gif" alt="Homem escrevendo código"/>
 <br/><br/><br/><br/>
 <p align="center">
   <a href="mailto:gamanattan@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/2913/2913990.png" alt="Etiqueta do Gmail" height="50px" />
+    <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/large_2x/gmail-icon-free-png.png" alt="Etiqueta do Gmail" height="50px" />
     &nbsp;
   </a>
   <a href="https://www.linkedin.com/in/nattangama/" target="_blank">
@@ -236,10 +236,11 @@
   </a>
     <a href="https://discord.com/channels/@nattangama" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" alt="Etiqueta do Discord" height="50px"/>
+
 </p>
 <br/><br/>
 <hr/>
-
+<!--
 <a align="center" src="" alt="Título da seção Projetos"><h2>Projetos</h2></a>
 <table height="405px" align="center">
   <tr>
@@ -411,6 +412,12 @@
 <div align="center">
   <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400"/>
 </div>
+
+
+
+
+
+
 
 
 
