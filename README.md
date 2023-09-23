@@ -43,7 +43,7 @@
 <hr/>
   
 <a align="right" width="100%" alt="Título da seção Minha Stack"><h2>Minhas Stacks</h2> </a>
-  <img align="left" src="https://github.com/nattangama/NattanGama/assets/91083215/4a3aead5-59fe-4dab-897c-47578f186df0" border="2" width="350px" height="350px"/>
+  <img align="left" src="https://github.com/nattangama/NattanGama/assets/91083215/4a3aead5-59fe-4dab-897c-47578f186df0" border="2" width="300px" height="300px"/>
 <table align="center" height="375px">
 <br/>
   
