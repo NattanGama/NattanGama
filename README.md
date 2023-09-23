@@ -49,10 +49,13 @@
 <br/>
   
   <!--Stacks-->
-      
-  <img align="center" src="https://github.com/nattangama/NattanGama/assets/91083215/4a3aead5-59fe-4dab-897c-47578f186df0" border="2" width="300px" height="300px"/>
-  <br/><br/><br/>
+  
   <tr>
+    <br/>
+    <div align="center">
+  <img src="https://github.com/nattangama/NattanGama/assets/91083215/4a3aead5-59fe-4dab-897c-47578f186df0" border="2" width="500px" height="300px" />
+  </div>
+    <br/>
     <td align="center" width="1000px">
       <a href="https://www.svgrepo.com/show/354380/spring-icon.svg">
         <img src="https://img.icons8.com/?size=512&id=90519&format=png" width="65px" alt="Spring icon"/><br/>
@@ -221,6 +224,7 @@
       </a>
     </td>
 </table>
+<br/><br/>
 <br/>
 <hr/>
 <h2>Contactos</h2></a>
