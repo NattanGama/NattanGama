@@ -15,7 +15,7 @@
 <hr/>
 
 <a href="" alt="Repositório do Banner Nattan">
-  <img align="center" width="1000px" height="300px" alt="Banner do Github do Nattan" src="https://github.com/nattangama/NattanGama/assets/91083215/bc01a985-3f04-463e-abdf-c7e14dfaf380" />
+  <img align="center" width="1000px" height="250px" alt="Banner do Github do Nattan" src="https://github.com/nattangama/NattanGama/assets/91083215/bc01a985-3f04-463e-abdf-c7e14dfaf380" />
 
 
 
@@ -230,14 +230,12 @@
 <br/><br/>
 <br/>
 <hr/>
-<h2>Contactos</h2></a>
+<h2>Contactos</h2>
+<div align="center">
+<img src="https://camo.githubusercontent.com/484de09f77d50fb888034e38a5ed115de5a2f9f81b94af44017e339809567b6e/68747470733a2f2f7777772e696d6167656e73616e696d616461732e636f6d2f646174612f6d656469612f35362f636f6d70757461646f722d696d6167656d2d616e696d6164612d303030342e676966" alt="Homem batendo no computador" border="2" width="250px" height="180px"/>
+</div>
+<br/>
 <div>
- <img align="right" width="250px" height="280px" src="https://camo.githubusercontent.com/484de09f77d50fb888034e38a5ed115de5a2f9f81b94af44017e339809567b6e/68747470733a2f2f7777772e696d6167656e73616e696d616461732e636f6d2f646174612f6d656469612f35362f636f6d70757461646f722d696d6167656d2d616e696d6164612d303030342e676966" alt="Homem batendo no computador"/>
-<br/><br/>
-</div> 
-
-<br/><br/><br/>
-
 <p align="center">
   <a href="mailto:gamanattan@gmail.com" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/large_2x/gmail-icon-free-png.png" alt="Etiqueta do Gmail" height="80px" />
@@ -262,6 +260,7 @@
 </p>
 <br/><br/>
 <hr/>
+</div>
 <!--
 <a align="center" src="" alt="Título da seção Projetos"><h2>Projetos</h2></a>
 <table height="405px" align="center">
