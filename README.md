@@ -50,10 +50,10 @@
   
   <!--Stacks-->
       
-  <img align="left" src="https://github.com/nattangama/NattanGama/assets/91083215/4a3aead5-59fe-4dab-897c-47578f186df0" border="2" width="300px" height="300px"/>
+  <img align="center" src="https://github.com/nattangama/NattanGama/assets/91083215/4a3aead5-59fe-4dab-897c-47578f186df0" border="2" width="300px" height="300px"/>
   <br/><br/><br/>
   <tr>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://www.svgrepo.com/show/354380/spring-icon.svg">
         <img src="https://img.icons8.com/?size=512&id=90519&format=png" width="65px" alt="Spring icon"/><br/>
         <sub>
@@ -63,7 +63,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://www.java.com/pt-BR/">
         <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png" width="65px" alt="Java icon"/>
         <br/>
@@ -74,7 +74,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
         <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
         <sub>
@@ -84,7 +84,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
       <img src="https://www.macformazione.com/wp-content/uploads/2022/04/Corso-Programmazione-C-Sharp.webp" width="65px" alt="Csharp icon"/>
       <br/>
@@ -95,7 +95,7 @@
       </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://github.com/">
         <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br/>
         <sub>
@@ -107,7 +107,7 @@
     </td>
   </tr>
     <tr>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://www.mysql.com/">
         <img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" width="65px" alt="MySQL icon"/><br/>
         <sub>
@@ -117,7 +117,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://www.php.net/manual/en/tutorial.firstpage.php">
         <img src="https://ftp.ntu.edu.tw/pub/php/favicon-196x196.png" width="60px" alt="PHP icon"/><br/>
         <sub>
@@ -127,7 +127,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://community.jaspersoft.com/">
         <img src="https://iili.io/Hb3m3gt.png" width="65px" alt="JasperReport icon"/><br/>
         <sub>
@@ -137,7 +137,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://maven.apache.org/">
         <img src="https://i.postimg.cc/zBpZRN9K/rounded-in-photoretrica-1.png"-photoretrica.png" width="65px" alt="Maven icon"/><br/>
         <sub>
@@ -147,7 +147,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://hibernate.org/">
         <img src="https://i.postimg.cc/xT1HmPbz/rounded-in-photoretrica.png" width="65px" alt="Hibernate icon"/><br/>
         <sub>
@@ -159,7 +159,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://getbootstrap.com/">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
       <sub>
@@ -169,7 +169,7 @@
       </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
         <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
         <sub>
@@ -179,7 +179,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
         <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
         <sub>
@@ -189,7 +189,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://ohmyz.sh/">
         <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
         <sub>
@@ -199,7 +199,7 @@
         </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://pop.system76.com/">
         <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
         <sub>
@@ -210,7 +210,7 @@
       </a>
     </td>
     </tr>
-    <td align="center">
+    <td align="center" width="1000px">
       <a href="https://code.visualstudio.com/">
         <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
         <sub>
