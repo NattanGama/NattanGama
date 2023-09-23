@@ -26,10 +26,11 @@
   <img src="https://visitor-badge.feriirawann.repl.co/?username=nattan&repo=nattan&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Visitas do Perfil no Github do Nattan" height="30px" />
 </div>
 <hr/>
-
 <a align="center" src="" width="100%" alt="Sobre Mim"><h2>Sobre Mim</h2> </a>
-<img align="right" src="https://github.com/nattangama/NattanGama/assets/91083215/aa513401-5818-4de0-9e40-c7ba4c647dd1" border="2" width="250px" height="280px"/>
-
+<div align="center">
+<img src="https://github.com/nattangama/NattanGama/assets/91083215/aa513401-5818-4de0-9e40-c7ba4c647dd1" border="2" width="250px" height="280px"/>
+  <br/><br/>
+</div>
 <ul>
   <li>👋🏻 Olá, me chamo Nattan Gama...</li>
   <br/>
@@ -231,7 +232,7 @@
 
  <img align="right" width="300px" src="https://camo.githubusercontent.com/484de09f77d50fb888034e38a5ed115de5a2f9f81b94af44017e339809567b6e/68747470733a2f2f7777772e696d6167656e73616e696d616461732e636f6d2f646174612f6d656469612f35362f636f6d70757461646f722d696d6167656d2d616e696d6164612d303030342e676966" alt="Homem batendo no computador"/>
  
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <p align="center">
   <a href="mailto:gamanattan@gmail.com" target="_blank">
