@@ -26,7 +26,9 @@
   <img src="https://visitor-badge.feriirawann.repl.co/?username=nattan&repo=nattan&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Visitas do Perfil no Github do Nattan" height="30px" />
 </div>
 <hr/>
+
 <a align="center" src="" width="100%" alt="Sobre Mim"><h2>Sobre Mim</h2> </a>
+
 <div align="center">
 <img src="https://github.com/nattangama/NattanGama/assets/91083215/aa513401-5818-4de0-9e40-c7ba4c647dd1" border="2" width="250px" height="280px"/>
   <br/><br/>
