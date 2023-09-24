@@ -13,25 +13,36 @@
   </tr>
 </table>
 <hr/>
-d
+
 <a href="" alt="Repositório do Banner Nattan">
-  <img align="center" width="1000px" height="300px" alt="Banner do Github do Nattan" src="https://github.com/nattangama/NattanGama/assets/91083215/676201b4-83bc-4aa0-8957-2a440e10f97a"/>
+  <img align="center" width="1000px" height="300px" alt="Banner do Github do Nattan" src="https://github.com/nattangama/NattanGama/assets/91083215/27e81552-a6e5-4209-9b72-c29a7686b3d1"/>
+
 </a>
 <br/><br/>
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=nattan&repo=nattan&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Visitas do Perfil no Github do Nattan" height="30px" />
+</div>
+<hr/>
+
+<a align="center" src="" width="100%" alt="Sobre Mim"><h2>About me</h2> </a>
+
+<div align="center">
+<img src="https://github.com/nattangama/NattanGama/assets/91083215/aa513401-5818-4de0-9e40-c7ba4c647dd1" border="2" width="250px" height="280px"/>
+  <br/><br/>
 </div>
 <ul>
-  <li>👋🏻 Olá, me chamo Nattan Gama...</li>
+  <li>👋🏻 Hello, my name is Nattan Gama...</li>
   <br/>
-  <li>💼 Sou um desenvolvedor que encontra uma profunda paixão no universo do desenvolvimento de software e no ambiente de treino da academia.</li> 
+  <li>💼 I'm a developer who finds a deep passion in the world of software development and the gym training environment.</li> 
   <br/>
-  <li>🗺️ Minha jornada envolve equilibrar a empolgação de criar soluções tecnológicas inovadoras com o desejo de aprimorar minha saúde e bem-estar. Ao mesmo tempo em que mergulho na resolução de desafios complexos por meio do código, também busco superar obstáculos físicos na academia, refletindo minha determinação em alcançar o melhor em ambos os aspectos da minha vida.</li>
+  <li>🗺️ My journey involves balancing the excitement of creating innovative technology solutions with the desire to improve my health and well-being. While I delve into solving complex challenges through code, I also seek to overcome physical obstacles in the gym, reflecting my determination to achieve the best in both aspects of my life.</li>
   <br/>
-  <li>💻 Iniciei a exploração do desenvolvimento front-end, contudo, possuo conhecimento do back-end <br/> e mobile, o que me facilita migrar para outras areas da IT.</li>
+  <li>💻 I started exploring front-end development, however, I have knowledge of the <br/> and mobile back-end, which makes it easier for me to migrate to other areas of IT.</li>
 </ul>
 <br/>
 <hr/>
   
-<a align="right" width="100%" alt="Título da seção Minha Stack"><h2>Minhas Stacks</h2> </a>
+<a align="right" width="100%" alt="Título da seção Minha Stack"><h2>My Stacks</h2> </a>
   
 <table align="center" height="375px"
   
@@ -216,7 +227,7 @@ d
 <br/><br/>
 <br/>
 <hr/>
-<h2>Contactos</h2>
+<h2>Contacts</h2>
 <div align="center">
 <img src="https://camo.githubusercontent.com/484de09f77d50fb888034e38a5ed115de5a2f9f81b94af44017e339809567b6e/68747470733a2f2f7777772e696d6167656e73616e696d616461732e636f6d2f646174612f6d656469612f35362f636f6d70757461646f722d696d6167656d2d616e696d6164612d303030342e676966" alt="Homem batendo no computador" border="2" width="250px" height="180px"/>
 </div>
@@ -419,3 +430,16 @@ d
 <div align="center">
   <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400"/>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
