@@ -52,9 +52,9 @@
   
   <tr>
     <br/>
-    <div align="center">
-  <img src="https://github.com/nattangama/NattanGama/assets/91083215/4a3aead5-59fe-4dab-897c-47578f186df0" border="2" width="250px" height="280px"/>
-  </div>
+   <!-- <div align="center">
+  <img src="https://github.com/nattangama/NattanGama/assets/91083215/4a3aead5-59fe-4dab-897c-47578f186df0" border="2" width="250px" height="280px"/> 
+  </div> -->
     <br/>
     <td align="center" width="1000px">
       <a href="https://www.svgrepo.com/show/354380/spring-icon.svg">
@@ -235,24 +235,24 @@
 <div>
 <p align="center">
   <a href="mailto:gamanattan@gmail.com" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/large_2x/gmail-icon-free-png.png" alt="Etiqueta do Gmail" height="80px" />
+    <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/large_2x/gmail-icon-free-png.png" alt="Etiqueta do Gmail" height="60px" />
     &nbsp;
   </a>
   <a href="https://www.linkedin.com/in/nattangama/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/1377/1377213.png" alt="Etiqueta do Linkedin" height="80px" />
+    <img src="https://cdn-icons-png.flaticon.com/128/1377/1377213.png" alt="Etiqueta do Linkedin" height="60px" />
     &nbsp;
   </a>
   <a href="https://nattangama.github.io/Portfolio-Dev/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/1454/1454827.png" alt="Etiqueta do Portfolio" height="80px" />
+    <img src="https://cdn-icons-png.flaticon.com/128/1454/1454827.png" alt="Etiqueta do Portfolio" height="60px" />
     &nbsp;
   </a>
   <a href="" target="_blank">
     <a href="https://api.whatsapp.com/send/?phone=351932493721" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3670/3670051.png" alt="Etiqueta do WhatsApp" height="80px"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/3670/3670051.png" alt="Etiqueta do WhatsApp" height="60px"/>
     &nbsp;
   </a>
     <a href="https://discord.com/channels/@nattangama" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" alt="Etiqueta do Discord" height="80px"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" alt="Etiqueta do Discord" height="60px"/>
 
 </p>
 <br/><br/>
