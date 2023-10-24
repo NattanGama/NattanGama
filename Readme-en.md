@@ -53,7 +53,7 @@
   <tr>
     <br/>
     <div align="center">
-  <img src="https://github.com/nattangama/NattanGama/assets/91083215/4a3aead5-59fe-4dab-897c-47578f186df0" border="2" width="250px" height="280px"/>
+
   </div>
     <br/>
     <td align="center" width="1000px">
