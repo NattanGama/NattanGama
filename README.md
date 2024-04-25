@@ -253,6 +253,8 @@
     <img height="150px" src="https://streak-stats.demolab.com?user=nattangama&theme=tokyonight&hide_border=true" />
   </div>
 </div>
+  
+  ![Snake animation](https://github.com/nattangama/nattangama/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 <br/>
