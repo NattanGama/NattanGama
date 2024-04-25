@@ -2,7 +2,7 @@
   <tr>
     <td height="43px">
       <b>
-        <a href="README.md">Português 🇧🇷</a>
+        <a href="README.md">Portuguese 🇧🇷</a>
       </b>
     </td>
   </tr>
@@ -14,17 +14,18 @@
 </table>
 <hr/>
 
-<a href="" alt="Repositório do Banner Nattan">
-  <img align="center" width="1000px" height="300px" alt="Banner do Github do Nattan" src="https://github.com/nattangama/NattanGama/assets/91083215/27e81552-a6e5-4209-9b72-c29a7686b3d1"/>
+<a href="" alt="Nattan's Banner Repository">
+  <img align="center" width="1000px" height="300px" alt="Nattan's Github Banner" src="https://github.com/nattangama/NattanGama/assets/91083215/a401ed26-b889-4efb-8e87-7d42734fb1bb"/>
 
 </a>
 <br/><br/>
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=nattan&repo=nattan&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Visitas do Perfil no Github do Nattan" height="30px" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nattangama.nattangama&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Nattan's Profile Visits on Github" height="30px" />
 </div>
+
 <hr/>
 
-<a align="center" src="" width="100%" alt="Sobre Mim"><h2>About me</h2> </a>
+<a align="center" src="" width="100%" alt="About Me"><h2>About Me</h2> </a>
 
 <div align="center">
 <img src="https://github.com/nattangama/NattanGama/assets/91083215/aa513401-5818-4de0-9e40-c7ba4c647dd1" border="2" width="250px" height="280px"/>
@@ -33,31 +34,22 @@
 <ul>
   <li>👋🏻 Hello, my name is Nattan Gama...</li>
   <br/>
-  <li>💼 I'm a developer who finds a deep passion in the world of software development and the gym training environment.</li> 
+  <li>💼 I'm a developer who finds deep passion in the software development universe and in the gym training environment.</li> 
   <br/>
-  <li>🗺️ My journey involves balancing the excitement of creating innovative technology solutions with the desire to improve my health and well-being. While I delve into solving complex challenges through code, I also seek to overcome physical obstacles in the gym, reflecting my determination to achieve the best in both aspects of my life.</li>
+  <li>🗺️ My journey involves balancing the excitement of creating innovative technological solutions with the desire to enhance my health and well-being. As I dive into solving complex challenges through code, I also strive to overcome physical obstacles in the gym, reflecting my determination to achieve the best in both aspects of my life.</li>
   <br/>
-  <li>💻 I started exploring front-end development, however, I have knowledge of the <br/> and mobile back-end, which makes it easier for me to migrate to other areas of IT.</li>
+  <li>💻 I started exploring front-end development, however, I have knowledge of back-end <br/> and mobile, which makes it easier for me to transition to other areas of IT.</li>
 </ul>
 <br/>
 <hr/>
   
-<a align="right" width="100%" alt="Título da seção Minha Stack"><h2>My Stacks</h2> </a>
+<a align="right" width="100%" alt="Section Title My Stack"><h2>My Stacks</h2> </a>
   
-<table align="center" height="375px"
-  
-<br/>
-  
-  <!--Stacks-->
-  
+<table align="center">
+<tr>    
+<table style="overflow-x: auto;" height="275px">
   <tr>
-    <br/>
-    <div align="center">
-
-  </div>
-    <br/>
     <td align="center" width="1000px">
-      <a href="https://www.svgrepo.com/show/354380/spring-icon.svg">
         <img src="https://img.icons8.com/?size=512&id=90519&format=png" width="65px" alt="Spring icon"/><br/>
         <sub>
           <b>
@@ -67,7 +59,6 @@
       </a>
     </td>
     <td align="center" width="1000px">
-      <a href="https://www.java.com/pt-BR/">
         <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png" width="65px" alt="Java icon"/>
         <br/>
         <sub>
@@ -78,7 +69,6 @@
       </a>
     </td>
     <td align="center" width="1000px">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
         <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
         <sub>
           <b>
@@ -88,7 +78,6 @@
       </a>
     </td>
     <td align="center" width="1000px">
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
       <img src="https://www.macformazione.com/wp-content/uploads/2022/04/Corso-Programmazione-C-Sharp.webp" width="65px" alt="Csharp icon"/>
       <br/>
       <sub>
@@ -99,7 +88,6 @@
       </a>
     </td>
     <td align="center" width="1000px">
-      <a href="https://github.com/">
         <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br/>
         <sub>
           <b>
@@ -111,7 +99,6 @@
   </tr>
     <tr>
     <td align="center" width="1000px">
-      <a href="https://www.mysql.com/">
         <img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" width="65px" alt="MySQL icon"/><br/>
         <sub>
           <b>
@@ -121,17 +108,13 @@
       </a>
     </td>
     <td align="center" width="1000px">
-      <a href="https://www.php.net/manual/en/tutorial.firstpage.php">
         <img src="https://ftp.ntu.edu.tw/pub/php/favicon-196x196.png" width="60px" alt="PHP icon"/><br/>
         <sub>
-          <b>
             <pre>PHP</pre>
-          </b>
         </sub>
       </a>
     </td>
     <td align="center" width="1000px">
-      <a href="https://community.jaspersoft.com/">
         <img src="https://iili.io/Hb3m3gt.png" width="65px" alt="JasperReport icon"/><br/>
         <sub>
           <b>
@@ -141,7 +124,6 @@
       </a>
     </td>
     <td align="center" width="1000px">
-      <a href="https://maven.apache.org/">
         <img src="https://i.postimg.cc/zBpZRN9K/rounded-in-photoretrica-1.png"-photoretrica.png" width="65px" alt="Maven icon"/><br/>
         <sub>
           <b>
@@ -151,56 +133,46 @@
       </a>
     </td>
     <td align="center" width="1000px">
-      <a href="https://hibernate.org/">
         <img src="https://i.postimg.cc/xT1HmPbz/rounded-in-photoretrica.png" width="65px" alt="Hibernate icon"/><br/>
         <sub>
           <b>
             <pre>Hibernate</pre>
           </b>
         </sub>
-      </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="1000px">
-      <a href="https://getbootstrap.com/">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
       <sub>
         <b>
           <pre>Bootstrap</pre>
         </b>
       </sub>
-      </a>
     </td>
     <td align="center" width="1000px">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
         <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
         <sub>
           <b>
             <pre>CSS3</pre>
           </b>
         </sub>
-      </a>
     </td>
     <td align="center" width="1000px">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
         <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
         <sub>
           <b>
             <pre>HTML5</pre>
           </b>
         </sub>
-      </a>
     </td>
     <td align="center" width="1000px">
-      <a href="https://ohmyz.sh/">
         <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
         <sub>
           <b>
             <pre>Terminal</pre>
           </b>
         </sub>
-      </a>
     </td>
     <td align="center" width="1000px">
       <a href="https://pop.system76.com/">
