@@ -255,7 +255,7 @@
 </div>
 
 </div>
-<br/>
+<br><br>
 <footer>
 <p align="center">
   <a href="mailto:gamanattan@gmail.com" alt="Etiqueta do Gmail" target="_blank">GMAIL</a> -
