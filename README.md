@@ -206,7 +206,7 @@
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/nattangama" target="_blank">
+    <a href="https://github.com/nattangama/Eventos" target="_blank">
       <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=nattangama&repo=Eventos&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
