@@ -213,28 +213,28 @@
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/Luk4x/gencard" target="_blank">
+    <a href="https://github.com/nattangama/Projeto-LocalizaDescarte" target="_blank">
       <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=nattangama&repo=Aplicacao-LocalizaDescarte&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/Luk4x/login-flux" target="_blank">
+    <a href="https://github.com/nattangama/API-Java" target="_blank">
       <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=nattangama&repo=API-java&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/Luk4x/dev-burger-order-log-interface" target="_blank">
+    <a href="https://github.com/nattangama/Android" target="_blank">
       <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=nattangama&repo=Android&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/Luk4x/copa-mobile" target="_blank">
+    <a href="https://github.com/nattangama/Projeto_Cordel" target="_blank">
       <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=nattangama&repo=Projeto_Cordel&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
